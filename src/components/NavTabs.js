@@ -3,14 +3,14 @@ import "./NavTabs.css"
 import { Link, useLocation } from "react-router-dom";
 
 function NavTabs(){
-    
+  const location = useLocation();
 
     return(
 
    <div className="container-fluid nav-bar-container">
       <nav className="navbar navbar-expand-sm navbar-light navbar-custom">
         <div className="Name">
-          <a className="navbar-brand" href="index.html">Kaeneth Dayao</a>
+          <a className="navbar-brand" href="/">Kaeneth Dayao</a>
         </div>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
@@ -18,13 +18,19 @@ function NavTabs(){
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ml-auto flex-row ml-md-auto d-md-flex">
             <li className="nav-item">
-              <a className="nav-link" href="index.html">About</a>
+              <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+                About
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="portfolio.html">Portfolio</a>
+              <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>
+                Portfolio
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="contact.html">Contact</a>
+              <Link to="/contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>
+                Contact
+              </Link>
             </li>
           </ul>
           </div>
