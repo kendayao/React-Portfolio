@@ -1,0 +1,58 @@
+.card {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 35px;
+}
+
+.card-title {
+    color: #4cbbb9;
+    font-size: 25px;
+}
+
+.about-me-image {
+    margin-bottom: 10px;
+}
+
+.resume{
+   color: #4cbbb9;
+   text-align: center;
+    
+}
+
+.fa-linkedin {
+    color: #0e76a8;
+}
+
+.fa-linkedin:hover {
+    transform: scale(1.2);
+}
+
+
+.fa-github-square{
+    color: black;
+}
+
+.fa-github-square:hover {
+    transform: scale(1.2);
+}
+
+.fa-at {
+    color: #D44638;
+}
+
+.fa-at:hover {
+    transform: scale(1.2);
+}
+
+.fab{
+    padding: 3%;
+}
+
+.fa-file-pdf{
+    padding: 5%;
+    color: #ED6663;
+} 
+
+.fa-file-pdf:hover{
+    transform: scale(1.2);
+} 
