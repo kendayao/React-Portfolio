@@ -1,0 +1,28 @@
+#footer {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #5f6769;
+    border-top: 5px solid #4cbbb9;
+    font-size: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} 
+
+.footer-name{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.footer-email{
+    margin-bottom: 0px;
+}
+.footer-phone{
+    margin-bottom: 10px;
+}
+
+.top-body{
+    padding-top: 2%;
+    text-align: center;
+    background-color: #def4f0;
+    color: #4cbbb9 ;
+}

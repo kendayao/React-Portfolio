@@ -31,3 +31,8 @@
 .navbar-light .navbar-brand:hover {
     color: #FFFFFF;
 }
+
+.nav-bar-container{
+    padding-left: 0px;
+    padding-right: 0Px
+}
