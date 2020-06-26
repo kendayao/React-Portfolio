@@ -20,10 +20,7 @@ function Portfolio(props){
           )}
         </div>
       </div>
-  </section>
- 
-  
-        
+  </section> 
     )
 
 
