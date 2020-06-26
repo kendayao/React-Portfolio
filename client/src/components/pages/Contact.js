@@ -2,10 +2,11 @@ import React, {useState} from "react"
 import "./Contact.css"
 import API from "../../utils/API"
 import Connect from "../Connect"
-
+import Alert from "../Alert"
 function Contact(){
 
 const [formObject, setFormObject]=useState({})
+const [alertState, setAlertState]=useState(null)
 
 function handleInputChange(event){
   const name=event.target.name
@@ -15,7 +16,11 @@ function handleInputChange(event){
 
 function handleFormSubmit(event){
   event.preventDefault();
-  
+  setAlertState(true)
+
+  setTimeout(()=>{
+    setAlertState(null);
+  }, 4000);
   API.saveMessage({
     name: formObject.name,
     email: formObject.email,
@@ -24,6 +29,8 @@ function handleFormSubmit(event){
   .catch(err => console.log(err));
   document.getElementById("form").reset()
 }
+
+
 
 
   return(
@@ -46,6 +53,7 @@ function handleFormSubmit(event){
                           <label for="exampleFormControlTextarea1">Message</label>
                           <textarea name="message" class="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Type message here...." onChange={handleInputChange}></textarea>
                           <button type="button" class="btn btn-info" onClick={handleFormSubmit}>Submit</button>
+                          {alertState ? <Alert />: null}
                         </div>
                       </form>
                     </div>
