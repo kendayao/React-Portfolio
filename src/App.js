@@ -5,6 +5,7 @@ import Footer from "./components/Footer"
 import About from "./components/pages/About"
 import Portfolio from "./components/pages/Portfolio"
 import Contact from "./components/pages/Contact"
+import portfolio from "./portfolio.json"
 import './App.css';
 
 function App() {
@@ -12,10 +13,30 @@ function App() {
   <Router>
     <div>
       <NavTabs />
-      <Route exact path="/" component={About} />
-      <Route exact path="/about" component={About} /> 
-      <Route exact path="/portfolio" component={Portfolio} /> 
-      <Route exact path="/contact" component={Contact} />       
+
+      <Route exact path="/">
+        <About />
+      </Route>
+
+      <Route exact path="/about">
+        <About />
+      </Route>
+
+      <Route exact path="/portfolio">
+          <Portfolio
+            portfolio={portfolio}
+          />
+      </Route>
+
+      <Route exact path="/contact">
+        <Contact />
+      </Route>
+
+
+
+
+
+      
       <Footer />
   </div>
   </Router>

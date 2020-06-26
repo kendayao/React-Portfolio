@@ -1,0 +1,38 @@
+[
+    {
+        "img":"../../images/assemble.png",
+        "appLink":"http://rocky-falls-68125.herokuapp.com/",
+        "appTitle":"Assemble App",
+        "appRepo":"https://github.com/kendayao/Project-2"
+    },
+    {
+        "img":"../../images/weather_dashboard.png",
+        "appLink":"https://kendayao.github.io/Weather-Dashboard/",
+        "appTitle":"Weather Dashboard",
+        "appRepo":"https://github.com/kendayao/Weather-Dashboard"
+    },
+    {
+        "img":"./../images/get_prepared_app.png",
+        "appLink":"https://croatia99.github.io/project1/",
+        "appTitle":"Get Prepared App",
+        "appRepo":"https://github.com/kendayao/project1"
+    },
+    {
+        "img":"../../images/code_quiz.png",
+        "appLink":"https://kendayao.github.io/Code-Quiz/",
+        "appTitle":"Code Quiz",
+        "appRepo":"https://github.com/kendayao/Code-Quiz"
+    },
+    {
+        "img":"../../images/day_planner.png",
+        "appLink":"https://kendayao.github.io/Day-Planner/",
+        "appTitle":"Day Planner App",
+        "appRepo":"https://github.com/kendayao/Day-Planner"
+    },
+    {
+        "img":"../../images/burgerapp.png",
+        "appLink":"https://frozen-beyond-53655.herokuapp.com/",
+        "appTitle":"Burger App",
+        "appRepo":"https://github.com/kendayao/Burger"
+    }
+]

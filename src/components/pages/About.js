@@ -13,7 +13,7 @@ function About(){
               <hr/>
                 <div className="row">
                   <div className="col-md-3" >
-                    <img className="img-thumbnail about-me-image" src="assets/images/Self-photo.jpg" alt="Kaeneth Photo"/>
+                    <img className="img-thumbnail about-me-image" src="../../images/Self-photo.jpg" alt="Kaeneth"/>
                   </div>
                   <div className="col-md-9">
                     <p className="card-text">Hello, my name is Kaeneth Dayao. I graduated from the University of California, Irvine in 2012 with a Bachelor Degree in Business Economics. After college, I worked for the Los Angeles Dodgers and several telecommunication startup companies in leadership roles. </p>
