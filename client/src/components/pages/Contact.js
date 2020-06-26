@@ -1,8 +1,32 @@
-import React from "react"
+import React, {useState} from "react"
 import "./Contact.css"
+import API from "../../utils/API"
+import Connect from "../Connect"
+
 function Contact(){
 
-    return(
+const [formObject, setFormObject]=useState({})
+
+function handleInputChange(event){
+  const name=event.target.name
+  const value=event.target.value
+  setFormObject({...formObject, [name]:value})
+}
+
+function handleFormSubmit(event){
+  event.preventDefault();
+  
+  API.saveMessage({
+    name: formObject.name,
+    email: formObject.email,
+    message: formObject.message
+  }).then(res => console.log("success"))
+  .catch(err => console.log(err));
+  document.getElementById("form").reset()
+}
+
+
+  return(
     <section class="main-body">
         <div class="container-fluid">
           <div class="row">
@@ -13,15 +37,15 @@ function Contact(){
                   <hr/>
                   <div class="row">
                     <div class="col-lg-12" >
-                      <form>
+                      <form id="form">
                         <div class="form-group">
                           <label for="exampleFormControlInput1">Name</label>
-                          <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Name"/>
+                          <input name="name" type="name" class="form-control" id="exampleFormControlInput1" placeholder="Name" onChange={handleInputChange}/>
                           <label for="exampleFormControlInput1">Email address</label>
-                          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email Address"/>
+                          <input name="email" type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email Address" onChange={handleInputChange}/>
                           <label for="exampleFormControlTextarea1">Message</label>
-                          <textarea class="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Type message here...."></textarea>
-                          <button type="button" class="btn btn-info">Submit</button>
+                          <textarea name="message" class="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Type message here...." onChange={handleInputChange}></textarea>
+                          <button type="button" class="btn btn-info" onClick={handleFormSubmit}>Submit</button>
                         </div>
                       </form>
                     </div>
@@ -30,18 +54,7 @@ function Contact(){
               </div>
             </div>
             
-            <div class="col-lg-4">
-                <div class="card">
-                  <div class="card-body">
-                    <h5 class="card-title">Connect with me</h5>
-                    <hr/>
-                    <a href="https://www.linkedin.com/in/kaeneth-dayao-3031808b/" target="_blank" title="Linkedin Profile"><i class="fab fa-linkedin fa-5x"></i></a>
-                    <a href="https://github.com/kendayao" target="_blank" title="Github"><i class="fab fa-github-square fa-5x"></i></a>
-                    <a href="mailto:kendayao@gmail.com" title="Email Me"><i class="fas fa-at fa-5x"></i></a>
-                    <a href="../../resume/resume.pdf" target="_blank" title="Resume"><i class="far fa-file-pdf fa-5x"></i></a>
-                  </div>
-                </div>
-              </div>
+            <Connect />
           </div>
         </div>
       </section>
