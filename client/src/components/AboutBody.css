@@ -1,0 +1,76 @@
+.buildings{
+    height: 400px;
+    margin-bottom: 0px;
+}
+
+.title{
+    font-family: 'Sacramento', cursive;
+    color: #4cbbb9 ;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.subtitle{
+    font-size: 20px;
+}
+
+.cloud1{
+    position: relative;
+    animation: cloud1 15s infinite;
+
+}
+
+@keyframes cloud1 {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+
+  .cloud2{
+    position: relative;
+    animation: cloud2 10s infinite;
+
+}
+
+@keyframes cloud2 {
+    from {left: 0px;}
+    to {left: 100px;}
+  }
+
+  .cloud3{
+    position: relative;
+    animation: cloud3 25s infinite;
+
+}
+
+@keyframes cloud3 {
+    from {left: 0px;}
+    to {left: 500px;}
+  }
+
+  .cloud4{
+    position: relative;
+    animation: cloud4 35s infinite;
+
+}
+
+@keyframes cloud4 {
+    from {left: 0px;}
+    to {left: 500px;}
+  }
+
+.sun{
+    width:100px;
+    height: 100px;
+}
+
+.building-attribution{
+font-size: 8px;
+background-color: lightgreen;
+margin-bottom: 0px;
+}
+
+.sun-attribution{
+font-size: 8px;
+background-color:lightgreen;
+margin-bottom: 0px;
+}

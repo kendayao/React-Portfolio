@@ -1,10 +1,13 @@
 import React from "react"
 import "./About.css"
 import Connect from "../Connect"
+import AboutBody from "../AboutBody"
 
 function About(){
 
     return(
+      <div>
+    <AboutBody />
     <section className="main-body">
      <div className="container-fluid">
       <div className="row">
@@ -30,6 +33,7 @@ function About(){
       </div>
     </div>
   </section>
+  </div>
     )
 
 
