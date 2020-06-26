@@ -39,10 +39,6 @@ function NavTabs(){
     
     );
 
-
-
-
-    
 }
 
 

@@ -16,10 +16,6 @@ function Connect(){
             </div>
           </div>
         </div>
-
-
-
-
     )
 
 

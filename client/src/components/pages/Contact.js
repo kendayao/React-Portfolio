@@ -59,7 +59,6 @@ function handleFormSubmit(event){
                 </div>
               </div>
             </div>
-            
             <Connect />
           </div>
         </div>

@@ -2,7 +2,8 @@ import React from "react"
 
 
 function Project(props){
-   return( <div className="row row-image">
+   return( 
+        <div className="row row-image">
           {props.portfolio.map(item=>
             <div className="col-md-6 portfolio-text-image">
               <img className="img-thumbnail portfolio-image" src={item.img} alt="assemble-app" />

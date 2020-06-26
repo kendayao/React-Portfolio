@@ -5,8 +5,8 @@ import AboutBody from "../AboutBody"
 
 function About(){
 
-    return(
-      <div>
+  return(
+    <div>
     <AboutBody />
     <section className="main-body">
      <div className="container-fluid">
@@ -28,15 +28,12 @@ function About(){
             </div>
           </div>
         </div>
-          
         <Connect />
       </div>
     </div>
   </section>
   </div>
-    )
-
-
+)
 }
 
 export default About
