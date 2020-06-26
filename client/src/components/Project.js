@@ -8,7 +8,7 @@ function Project(props){
             <div className="col-md-6 portfolio-text-image">
               <img className="img-thumbnail portfolio-image" src={item.img} alt="assemble-app" />
               <a href={item.appLink} target="_blank"><h2 className="card-text">{item.appTitle}</h2></a>
-              <a href={item.Repo} target="_blank"><h6 className="card-text">Project Repository</h6></a>
+              <a href={item.appRepo} target="_blank"><h6 className="card-text">Project Repository</h6></a>
             </div>
           )}
         </div>
