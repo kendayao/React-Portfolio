@@ -34,5 +34,23 @@
         "appLink":"https://frozen-beyond-53655.herokuapp.com/",
         "appTitle":"Burger App",
         "appRepo":"https://github.com/kendayao/Burger"
+    },
+    {
+        "img":"../../images/fidofriend.png",
+        "appLink":"https://young-refuge-69490.herokuapp.com/",
+        "appTitle":"Fido Friend",
+        "appRepo":"https://github.com/kendayao/project-3"
+    },
+    {
+        "img":"../../images/budgetapp.png",
+        "appLink":"https://benefique-monsieur-43566.herokuapp.com/",
+        "appTitle":"Budget Tracker",
+        "appRepo":"https://github.com/kendayao/Budget-Tracker"
+    },
+    {
+        "img":"../../images/employeedirectoryapp.png",
+        "appLink":"https://kendayao.github.io/Employee-Directory/",
+        "appTitle":"Employee Directory",
+        "appRepo":"https://github.com/kendayao/Employee-Directory"
     }
 ]
