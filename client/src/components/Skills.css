@@ -1,0 +1,31 @@
+.img1{
+    height:60px;
+    width: 60px;
+    margin-top: -10px;
+    margin-left: 5px;
+    margin-right: 5px
+}
+
+.fa-html5{
+    color: red;
+}
+
+.fa-node{
+    color: green;
+}
+
+.fa-css3-alt{
+    color: blue
+}
+
+.fa-bootstrap{
+    color: purple
+}
+
+.fa-react{
+    color: lightblue
+}
+
+.card-body{
+    box-shadow: 5px 10px #888888;
+}

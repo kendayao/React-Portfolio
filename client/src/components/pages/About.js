@@ -1,8 +1,7 @@
 import React from "react"
 import "./About.css"
-import Connect from "../Connect"
 import AboutBody from "../AboutBody"
-
+import Skills from "../Skills"
 function About(){
 
   return(
@@ -28,10 +27,15 @@ function About(){
             </div>
           </div>
         </div>
-        <Connect />
+        <Skills />
       </div>
     </div>
   </section>
+
+  
+
+
+
   </div>
 )
 }

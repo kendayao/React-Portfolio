@@ -2,6 +2,7 @@ import React from "react"
 import "./AboutBody.css"
 
 function AboutBody() {
+  
 return(
 <section className="top-body">
   <div className="container-fluid">
