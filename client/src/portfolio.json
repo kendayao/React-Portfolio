@@ -52,5 +52,20 @@
         "appLink":"https://kendayao.github.io/Employee-Directory/",
         "appTitle":"Employee Directory",
         "appRepo":"https://github.com/kendayao/Employee-Directory"
+    },
+    {
+        "img":"../../images/tindog.png",
+        "appLink":"https://kendayao.github.io/Tindog/",
+        "appTitle":"TinDog Website",
+        "appRepo":"https://github.com/kendayao/Tindog"
+    },
+    {
+        "img":"../../images/drumkit.png",
+        "appLink":"https://kendayao.github.io/Drumkit/",
+        "appTitle":"Drum Kit",
+        "appRepo":"https://github.com/kendayao/Drumkit"
     }
+    
+        
+
 ]
