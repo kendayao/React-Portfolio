@@ -3,67 +3,78 @@
         "img":"../../images/assemble.png",
         "appLink":"https://polar-island-19787.herokuapp.com/",
         "appTitle":"Assemble App",
-        "appRepo":"https://github.com/kendayao/Project-2"
+        "appRepo":"https://github.com/kendayao/Project-2",
+        "languages": "HTML CSS Node Express JavaScript jQuery Sequelize MySQL Bootstrap Passport"
     },
     {
         "img":"../../images/weather_dashboard.png",
         "appLink":"https://kendayao.github.io/Weather-Dashboard/",
         "appTitle":"Weather Dashboard",
-        "appRepo":"https://github.com/kendayao/Weather-Dashboard"
+        "appRepo":"https://github.com/kendayao/Weather-Dashboard",
+        "languages": "HTML CSS Bootstrap JavaScript jQuery API"
     },
     {
         "img":"./../images/get_prepared_app.png",
         "appLink":"https://croatia99.github.io/project1/",
         "appTitle":"Get Prepared App",
-        "appRepo":"https://github.com/kendayao/project1"
+        "appRepo":"https://github.com/kendayao/project1",
+        "languages": "HTML CSS Bootstrap JavaScript jQuery API"
     },
     {
         "img":"../../images/code_quiz.png",
         "appLink":"https://kendayao.github.io/Code-Quiz/",
         "appTitle":"Code Quiz",
-        "appRepo":"https://github.com/kendayao/Code-Quiz"
+        "appRepo":"https://github.com/kendayao/Code-Quiz",
+        "languages": "HTML CSS JavaScript"
     },
     {
         "img":"../../images/day_planner.png",
         "appLink":"https://kendayao.github.io/Day-Planner/",
         "appTitle":"Day Planner App",
-        "appRepo":"https://github.com/kendayao/Day-Planner"
+        "appRepo":"https://github.com/kendayao/Day-Planner",
+        "languages": "HTML CSS Bootstrap JavaScript jQuery"
     },
     {
         "img":"../../images/burgerapp.png",
         "appLink":"https://frozen-beyond-53655.herokuapp.com/",
         "appTitle":"Burger App",
-        "appRepo":"https://github.com/kendayao/Burger"
+        "appRepo":"https://github.com/kendayao/Burger",
+        "languages": "HTML CSS JavaScript jQuery MySQL Node Express Handlebars ORM"
     },
     {
         "img":"../../images/fidofriend.png",
         "appLink":"https://young-refuge-69490.herokuapp.com/",
         "appTitle":"Fido Friend",
-        "appRepo":"https://github.com/kendayao/project-3"
+        "appRepo":"https://github.com/kendayao/project-3",
+        "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose API Redux"
     },
     {
         "img":"../../images/budgetapp.png",
         "appLink":"https://benefique-monsieur-43566.herokuapp.com/",
         "appTitle":"Budget Tracker",
-        "appRepo":"https://github.com/kendayao/Budget-Tracker"
+        "appRepo":"https://github.com/kendayao/Budget-Tracker",
+        "languages": "HTML CSS JavaScript jQuery MongoDB Mongoose Node Express PWA IndexedDB"
     },
     {
         "img":"../../images/employeedirectoryapp.png",
         "appLink":"https://kendayao.github.io/Employee-Directory/",
         "appTitle":"Employee Directory",
-        "appRepo":"https://github.com/kendayao/Employee-Directory"
+        "appRepo":"https://github.com/kendayao/Employee-Directory",
+        "languages": "HTML CSS JavaScript React API"
     },
     {
         "img":"../../images/tindog.png",
         "appLink":"https://kendayao.github.io/Tindog/",
         "appTitle":"TinDog Website",
-        "appRepo":"https://github.com/kendayao/Tindog"
+        "appRepo":"https://github.com/kendayao/Tindog",
+        "languages": "HTML CSS Bootstrap"
     },
     {
         "img":"../../images/drumkit.png",
         "appLink":"https://kendayao.github.io/Drumkit/",
         "appTitle":"Drum Kit",
-        "appRepo":"https://github.com/kendayao/Drumkit"
+        "appRepo":"https://github.com/kendayao/Drumkit",
+        "languages": "HTML CSS JavaScript"
     }
     
         

@@ -38,7 +38,7 @@ function handleFormSubmit(event){
             <div className="col-lg-8">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">Contact</h5>
+                  <h5 className="card-title">Contact Me</h5>
                   <hr/>
                   <div className="row">
                     <div className="col-lg-12" >
