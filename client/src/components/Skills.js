@@ -20,6 +20,7 @@ return (
               <img className="img1" title="MERN" src="../images/mern.png" alt="Mern"/>
               <img className="img1" title="MongoDB" src="../images/mongdb.png" alt="mongodb"/>
               <img className="img1" title="Sequelize" src="../images/sequelize.png" alt="sequelize"/>
+              <i class="fab fa-js fa-3x" title="JavaScript" ></i>
             </div>
           </div>
         </div>

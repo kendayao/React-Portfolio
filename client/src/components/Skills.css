@@ -7,7 +7,7 @@
 }
 
 .fa-html5{
-    color: red;
+    color: #e8505b;
 }
 
 .fa-node{
@@ -15,15 +15,19 @@
 }
 
 .fa-css3-alt{
-    color: blue
+    color: #1b6ca8
 }
 
 .fa-bootstrap{
-    color: purple
+    color: #6A2C70
 }
 
 .fa-react{
     color: lightblue
+}
+
+.fa-js{
+    color: #f9d56e
 }
 
 .card-body{

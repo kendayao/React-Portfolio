@@ -75,6 +75,13 @@
         "appTitle":"Drum Kit",
         "appRepo":"https://github.com/kendayao/Drumkit",
         "languages": "HTML CSS JavaScript"
+    },
+    {
+        "img":"../../images/notetaker.png",
+        "appLink":"https://github.com/kendayao/Note-Taker/",
+        "appTitle":"Note Taker",
+        "appRepo":"https://github.com/kendayao/Note-Taker",
+        "languages": "HTML CSS JavaScript Node Express"
     }
     
         
