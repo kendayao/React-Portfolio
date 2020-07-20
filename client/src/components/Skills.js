@@ -5,7 +5,7 @@ function Skills(){
 return (
 
 <div className="col-md-4">
-          <div className="card">
+          <div className="card skills-card">
             <div className="card-body">
               <h5 className="card-title">My Skills</h5>
               <hr/>

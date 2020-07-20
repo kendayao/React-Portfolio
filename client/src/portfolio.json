@@ -77,8 +77,8 @@
         "languages": "HTML CSS JavaScript"
     },
     {
-        "img":"../../images/notetaker.png",
-        "appLink":"https://github.com/kendayao/Note-Taker/",
+        "img":"../../images/notetakerapp.png",
+        "appLink":"https://fierce-bayou-31752.herokuapp.com/",
         "appTitle":"Note Taker",
         "appRepo":"https://github.com/kendayao/Note-Taker",
         "languages": "HTML CSS JavaScript Node Express"
