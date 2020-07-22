@@ -15,7 +15,7 @@
     },
     {
         "img":"./../images/get_prepared_app.png",
-        "appLink":"https://croatia99.github.io/project1/",
+        "appLink":"https://kendayao.github.io/project1/",
         "appTitle":"Get Prepared App",
         "appRepo":"https://github.com/kendayao/project1",
         "languages": "HTML CSS Bootstrap JavaScript jQuery API"
@@ -45,7 +45,7 @@
         "img":"../../images/fidofriend.png",
         "appLink":"https://young-refuge-69490.herokuapp.com/",
         "appTitle":"Fido Friend",
-        "appRepo":"https://github.com/kendayao/project-3",
+        "appRepo":"https://github.com/seongwoj/project-3",
         "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose API Redux"
     },
     {
