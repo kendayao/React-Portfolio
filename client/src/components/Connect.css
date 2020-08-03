@@ -1,3 +1,11 @@
 .connect-with-me-card{
     margin-bottom: 80px;
 }
+
+.icon{
+    text-align: center;
+}
+
+.icon p{
+    margin-top: -5px
+}

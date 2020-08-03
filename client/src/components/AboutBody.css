@@ -22,7 +22,7 @@
 
 @keyframes cloud1 {
     from {left: 0px;}
-    to {left: 300px;}
+    to {left: 400px;}
   }
 
   .cloud2{
@@ -33,7 +33,7 @@
 
 @keyframes cloud2 {
     from {left: 0px;}
-    to {left: 100px;}
+    to {left: 50px;}
   }
 
   .cloud3{
@@ -44,7 +44,7 @@
 
 @keyframes cloud3 {
     from {left: 0px;}
-    to {left: 500px;}
+    to {left: 200px;}
   }
 
   .cloud4{
@@ -55,7 +55,7 @@
 
 @keyframes cloud4 {
     from {left: 0px;}
-    to {left: 500px;}
+    to {left: 300px;}
   }
 
 .sun{
@@ -73,4 +73,39 @@ margin-bottom: 0px;
 font-size: 8px;
 background-color:lightgreen;
 margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 768px){
+    .cloud1{
+        animation: cloud1 10s infinite;
+    
+    }
+    
+    @keyframes cloud1 {
+        from {left: -5px;}
+        to {left: 150px;}
+      }
+
+    .cloud4{
+        display: none
+    }
+    
+    
+
+      .cloud3{
+        display: none
+    
+    }
+
+    .cloud2{
+        animation: cloud2 1s infinite;
+    
+    }
+    
+    @keyframes cloud2 {
+        from {left: 0px;}
+        to {left: 0px;}
+      }
+
+   
 }
