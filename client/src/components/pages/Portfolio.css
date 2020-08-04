@@ -17,18 +17,36 @@ a h2 {
     background-color: #4cbbb9;
     color: white;
     position: absolute;
-    bottom: 50px;
+    bottom: 48px;
     width: 93%;
     text-align: center;
+    font-size: 28px;
+    
 }
 
-a h6{
+.card-text-details{
     background-color: #4cbbb9;
     color: white;
     position: absolute;
     bottom: 20px;
     width: 93%;
     text-align: center;
+    font-size: 14px;
+    padding-top: 0;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+.card-text-demo{
+    background-color: #4cbbb9;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    width: 93%;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 2px
 }
 
 h2:hover {

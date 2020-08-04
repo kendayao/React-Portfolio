@@ -45,9 +45,9 @@ function handleFormSubmit(event){
                       <form id="form">
                         <div className="form-group">
                           <label for="exampleFormControlInput1">Name</label>
-                          <input name="name" type="name" className="form-control" id="exampleFormControlInput1" placeholder="Name" onChange={handleInputChange}/>
+                          <input name="name" type="name" className="form-control" id="exampleFormControlInput1" placeholder="Name" required onChange={handleInputChange}/>
                           <label for="exampleFormControlInput1">Email address</label>
-                          <input name="email" type="email" className="form-control" id="exampleFormControlInput1" placeholder="Email Address" onChange={handleInputChange}/>
+                          <input name="email" type="email" className="form-control" id="exampleFormControlInput1" placeholder="Email Address" required onChange={handleInputChange}/>
                           <label for="exampleFormControlTextarea1">Message</label>
                           <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Type message here...." onChange={handleInputChange}></textarea>
                           <button type="button" className="btn btn-info" onClick={handleFormSubmit}>Submit</button>
