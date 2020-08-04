@@ -1,7 +1,9 @@
 import React from "react";
 import "./Connect.css"
-function Connect(){
+import { Link, useLocation } from "react-router-dom"
 
+function Connect(){
+  const location = useLocation();
     return(
 
         <div className="col-md-4">
@@ -24,8 +26,10 @@ function Connect(){
                   <p>Email</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
-                  <a href="./resume/resume3.pdf" target="_blank" title="Resume"><i className="far fa-file-pdf fa-4x"></i></a>
-                  <p>Resume</p>
+                  <Link to="./resume/resume3.pdf" id="resume-icon" target="_blank" className={location.pathname === "./resume/resume3.pdf" ? "nav-link active" : "nav-link"}>
+                    <i className="far fa-file-pdf fa-4x"></i>
+                  </Link>
+                  <p className="resume-text">Resume</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
                   <a href="https://www.youtube.com/channel/UCcD-il-fawZbObChZPpRfrw" target="_blank" title="Youtube"><i class="fab fa-youtube fa-4x"></i></a>

@@ -6,7 +6,15 @@
     text-align: center;
 }
 
+
 .icon p{
-    margin-top: -5px;
-    font-size: 14px
+    margin-top: -6px;
+    font-size: 14px;
 }
+
+#resume-icon{
+    padding: 0
+}
+
+
+
