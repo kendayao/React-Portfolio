@@ -1,12 +1,16 @@
 .card {
     margin-top: 25px;
     margin-left: 25px;
-    margin-bottom: 35px;
+    margin-bottom: 90px;
 }
 
 .card-title {
     color: #4cbbb9;
     font-size: 25px;
+}
+
+.card-text{
+    line-height: 145%;
 }
 
 .about-me-image {
@@ -40,13 +44,19 @@
     color: #D44638;
 }
 
-.fa-youtube{
-    color: #FF0000;
-}
 
 .fa-at:hover {
     transform: scale(1.2);
 }
+
+.fa-youtube{
+    color: #FF0000;
+}
+
+.fa-youtube:hover {
+    transform: scale(1.2);
+}
+
 
 .fab{
     padding: 3%;
