@@ -24,7 +24,7 @@ function Connect(){
                   <p>Email</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
-                  <a href="../../resume/resume3.pdf" target="_blank" title="Resume"><i className="far fa-file-pdf fa-4x"></i></a>
+                  <a href="./resume/resume3.pdf" target="_blank" title="Resume"><i className="far fa-file-pdf fa-4x"></i></a>
                   <p>Resume</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
