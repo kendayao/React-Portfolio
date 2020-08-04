@@ -1,5 +1,6 @@
 import React from "react";
 import "./Connect.css"
+import PDF from "../resume3.pdf"
 import { Link, useLocation } from "react-router-dom"
 
 function Connect(){
@@ -26,13 +27,11 @@ function Connect(){
                   <p>Email</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
-                  <Link to="/resume/resume3.pdf" id="resume-icon" target="_blank" className={location.pathname === "./resume/resume3.pdf" ? "nav-link active" : "nav-link"}>
-                    <i className="far fa-file-pdf fa-4x"></i>
-                  </Link>
+                  <a href={PDF} title="Resume" target="_blank"><i className="far fa-file-pdf fa-4x"></i></a>
                   <p className="resume-text">Resume</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
-                  <a href="https://www.youtube.com/channel/UCcD-il-fawZbObChZPpRfrw" target="_blank" title="Youtube"><i class="fab fa-youtube fa-4x"></i></a>
+                  <a href="https://www.youtube.com/channel/UCcD-il-fawZbObChZPpRfrw" target="_blank" title="Youtube"><i className="fab fa-youtube fa-4x"></i></a>
                   <p>Youtube</p>
                 </div>
               </div>
