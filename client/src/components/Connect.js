@@ -26,7 +26,7 @@ function Connect(){
                   <p>Email</p>
                 </div>
                 <div className="col-lg-4 col-md-6 col-sm-6 icon">
-                  <Link to="./resume/resume3.pdf" id="resume-icon" target="_blank" className={location.pathname === "./resume/resume3.pdf" ? "nav-link active" : "nav-link"}>
+                  <Link to="/resume/resume3.pdf" id="resume-icon" target="_blank" className={location.pathname === "./resume/resume3.pdf" ? "nav-link active" : "nav-link"}>
                     <i className="far fa-file-pdf fa-4x"></i>
                   </Link>
                   <p className="resume-text">Resume</p>
