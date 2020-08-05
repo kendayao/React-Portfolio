@@ -61,6 +61,6 @@ For any questions, please contact kendayao at kendayao@gmail.com
 
 ## Deployed Application URL
 
-Deployed application link: https://rocky-ravine-58747.herokuapp.com/
+Deployed application link: https://kaenethdayao.herokuapp.com/
 
 <img src="client/public/images/reactportfolio.png" width="500" height="400">
