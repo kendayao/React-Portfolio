@@ -16,6 +16,14 @@
         "appDemo": "https://giphy.com/gifs/Y1BNVnPrqsDYarU6pM/fullscreen"
     },
     {
+        "img":"../../images/food-delivery.png",
+        "appLink":"https://kendayao.github.io/Food-Delivery/",
+        "appTitle":"Omnifood",
+        "appRepo":"https://github.com/kendayao/Food-Delivery",
+        "languages": "HTML CSS Bootstrap jQuery",
+        "appDemo": "https://giphy.com/gifs/MctEbrtMAAIZtRFlzk/fullscreen"
+    },
+    {
         "img":"../../images/notetakerapp.png",
         "appLink":"https://fierce-bayou-31752.herokuapp.com/",
         "appTitle":"Note Taker",
