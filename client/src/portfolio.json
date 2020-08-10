@@ -24,6 +24,14 @@
         "appDemo": "https://giphy.com/gifs/MctEbrtMAAIZtRFlzk/fullscreen"
     },
     {
+        "img":"../../images/tic-tac-toe.png",
+        "appLink":"#",
+        "appTitle":"CLI Python Tic-Tac-Toe",
+        "appRepo":"https://github.com/kendayao/Tic-Tac-Toe",
+        "languages": "Python",
+        "appDemo": "https://www.youtube.com/watch?v=gWVsONU9xxo"
+    },
+    {
         "img":"../../images/notetakerapp.png",
         "appLink":"https://fierce-bayou-31752.herokuapp.com/",
         "appTitle":"Note Taker",
