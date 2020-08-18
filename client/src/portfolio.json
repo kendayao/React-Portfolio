@@ -3,7 +3,7 @@
         "img":"../../images/assemble.png",
         "appLink":"https://polar-island-19787.herokuapp.com/",
         "appTitle":"Assemble App",
-        "appRepo":"https://github.com/kendayao/Project-2",
+        "appRepo":"https://github.com/kendayao/Assemble",
         "languages": "HTML CSS Node Express JavaScript jQuery Sequelize MySQL Bootstrap Passport",
         "appDemo": "https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen"
     },
@@ -67,7 +67,7 @@
         "img":"../../images/fidofriend.png",
         "appLink":"https://young-refuge-69490.herokuapp.com/",
         "appTitle":"Fido Friend",
-        "appRepo":"https://github.com/seongwoj/project-3",
+        "appRepo":"https://github.com/kendayao/Fido-Friend",
         "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose API Redux",
         "appDemo": "https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen"
     },

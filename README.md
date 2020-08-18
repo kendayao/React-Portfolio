@@ -2,11 +2,12 @@
 
 ## Description
 
-This is my web development portfolio. This portfolio was built with REACT. Enjoy!
+This is my web development portfolio. This portfolio showcases my web development skills through projects that I have worked on myself and projects that I have worked on with a team.
 
 ## Table of Contents
 
 * [Description](#description)
+* [Technology] (#technology)
 * [User Story](#user-story)
 * [Installation](#installation)
 * [Usage](#usage)
@@ -16,12 +17,21 @@ This is my web development portfolio. This portfolio was built with REACT. Enjoy
 * [Questions](#questions)
 * [Deployed Application URL](#deployed-application-URL)
 
+## Technology
+- React
+- HTML
+- CSS 
+- Boostrap
+- JavaScript
+- Express
+- Node
+- MongoDB
 
 
 ## User Story
 
 
-As a user, I want a portfolio to display my coding projects for others to view.
+As a developer, I want a portfolio to display my coding projects so other developers can learn about me and view my projects.
 
 
 ## Installation
@@ -32,7 +42,7 @@ No installation needed. If cloning repo do an npm install.
 
 ## Usage
 
-The deployed application link will take you to the homepage. 
+The deployed application link will take you to the homepage. From the homepage, you can use the navbar to navigate to the Project Page and Contact page.
 
 
 ## License
