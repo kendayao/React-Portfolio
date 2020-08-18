@@ -42,7 +42,7 @@ No installation needed. If cloning repo do an npm install.
 
 ## Usage
 
-The deployed application link will take you to the homepage. From the homepage, you can use the navbar to navigate to the Project Page and Contact page.
+The deployed application link will take you to the homepage. From the homepage, you can use the navbar to navigate to the portfolio and contact page.
 
 
 ## License
