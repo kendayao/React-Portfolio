@@ -7,7 +7,7 @@ This is my web development portfolio. This portfolio showcases my web developmen
 ## Table of Contents
 
 * [Description](#description)
-* [Technology] (#technology)
+* [Technology](#technology)
 * [User Story](#user-story)
 * [Installation](#installation)
 * [Usage](#usage)
