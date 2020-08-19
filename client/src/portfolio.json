@@ -97,9 +97,9 @@
     },
     {
         "img":"./../images/get_prepared_app.png",
-        "appLink":"https://kendayao.github.io/project1/",
+        "appLink":"https://kendayao.github.io/Get_Prepared/",
         "appTitle":"Get Prepared App",
-        "appRepo":"https://github.com/kendayao/project1",
+        "appRepo":"https://github.com/kendayao/Get_Prepared",
         "languages": "HTML CSS Bootstrap JavaScript jQuery API",
         "appDemo": "https://giphy.com/gifs/jQn8VHnBVqNAeVcQhZ/fullscreen"
     },
