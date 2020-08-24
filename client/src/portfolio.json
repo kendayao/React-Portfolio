@@ -8,6 +8,14 @@
         "appDemo": "https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen"
     },
     {
+        "img":"../../images/moviebase.png",
+        "appLink":"https://kendayao.github.io/MovieBase",
+        "appTitle":"MovieBase",
+        "appRepo":"https://github.com/kendayao/MovieBase",
+        "languages": "HTML CSS Bootstrap jQuery JavaScript OMDb API",
+        "appDemo": "https://giphy.com/gifs/KH7wNCx8TUDtYqW267/fullscreen"
+    },
+    {
         "img":"../../images/weather_dashboard.png",
         "appLink":"https://kendayao.github.io/Weather-Dashboard/",
         "appTitle":"Weather Dashboard",

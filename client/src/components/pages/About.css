@@ -9,7 +9,8 @@
     font-size: 25px;
 }
 
-.card-text{
+.card-text-about{
+    font-family: 'Open Sans', sans-serif;
     line-height: 145%;
     font-weight: 400;
 }
