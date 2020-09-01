@@ -16,6 +16,14 @@
         "appDemo": "https://giphy.com/gifs/KH7wNCx8TUDtYqW267/fullscreen"
     },
     {
+        "img":"../../images/chatterboxlive2.png",
+        "appLink":"https://chaterbox.herokuapp.com/",
+        "appTitle":"Chatterbox",
+        "appRepo":"https://github.com/kendayao/ChatterBox",
+        "languages": "REACT Redux Socket.io HTML CSS Bootstrap JavaScript",
+        "appDemo": "https://youtu.be/BIwBHYlAzIE"
+    },
+    {
         "img":"../../images/weather_dashboard.png",
         "appLink":"https://kendayao.github.io/Weather-Dashboard/",
         "appTitle":"Weather Dashboard",
