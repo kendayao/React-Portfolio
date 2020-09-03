@@ -28,7 +28,7 @@
         "appLink":"https://kendayao.github.io/Weather-Dashboard/",
         "appTitle":"Weather Dashboard",
         "appRepo":"https://github.com/kendayao/Weather-Dashboard",
-        "languages": "HTML CSS Bootstrap JavaScript jQuery API",
+        "languages": "HTML CSS Bootstrap JavaScript jQuery Open Weather API",
         "appDemo": "https://giphy.com/gifs/Y1BNVnPrqsDYarU6pM/fullscreen"
     },
     {
@@ -84,7 +84,7 @@
         "appLink":"https://young-refuge-69490.herokuapp.com/",
         "appTitle":"Fido Friend",
         "appRepo":"https://github.com/kendayao/Fido-Friend",
-        "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose API Redux",
+        "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose Google/Yelp API Redux",
         "appDemo": "https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen"
     },
     {

@@ -115,4 +115,34 @@ h5 {
     .text{
         font-size: 18px;
     }
+
+    a h2,
+    .card-text-details,
+    .card-text-demo {
+        width: 89%
+    }
+}
+
+@media only screen and (max-width: 560px){
+    a h2,
+    .card-text-details,
+    .card-text-demo {
+        width: 91%
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width:930px){
+    a h2,
+    .card-text-details,
+    .card-text-demo {
+        width: 90%
+    }
+}
+
+@media only screen and (min-width: 1655px) and (max-width:1920px){
+    a h2,
+    .card-text-details,
+    .card-text-demo {
+        width: 95%
+    }
 }
