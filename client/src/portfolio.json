@@ -72,6 +72,14 @@
         "appDemo": "https://giphy.com/gifs/fxAjEBQzRbKxeH55le/fullscreen"
     },
     {
+        "img":"../../images/memo.png",
+        "appLink":"https://kendayao.github.io/Memo/",
+        "appTitle":"Memo",
+        "appRepo":"https://github.com/kendayao/Memo",
+        "languages": "REACT REACT Hooks Local Storage, HTML, CSS, JavaScript, Material-UI",
+        "appDemo": "https://giphy.com/gifs/6ivebP3GfO7kq1M6j1/fullscreen"
+    },
+    {
         "img":"../../images/burgerapp.png",
         "appLink":"https://frozen-beyond-53655.herokuapp.com/",
         "appTitle":"Burger App",
