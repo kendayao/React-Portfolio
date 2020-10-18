@@ -16,13 +16,13 @@
 
 .cloud1{
     position: relative;
-    animation: cloud1 15s infinite;
+    animation: cloud1 50s infinite;
 
 }
 
 @keyframes cloud1 {
     from {left: 0px;}
-    to {left: 450px;}
+    to {left: 400px;}
   }
 
   .cloud2{

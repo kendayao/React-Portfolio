@@ -8,7 +8,14 @@ return(
   <div className="container-fluid">
     <div className="row">
       <div className="col-md-12">
-        <h3 className="title">I'm Kaeneth</h3>
+        <h3 className="title">Hello World!</h3>
+      </div>
+    </div>
+  </div>
+  <div className="container-fluid">
+    <div className="row">
+      <div className="col-md-12">
+        <h1 className="subtitle">I'm Kaeneth</h1>
       </div>
     </div>
   </div>
