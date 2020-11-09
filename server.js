@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require("express");
 
 const mongoose = require("mongoose");
@@ -18,7 +19,7 @@ if (process.env.NODE_ENV === "production") {
 require("./routes/apiRoutes.js")(app)
 
 // Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/portfoliomessages");
+mongoose.connect("mongodb+srv://project_user1:"+process.env.DB_PASS+"@portfolio.koran.mongodb.net/portfolio?retryWrites=true&w=majority" || "mongodb://localhost/portfoliomessages");
 
 // Start the API server
 app.listen(PORT, function() {
