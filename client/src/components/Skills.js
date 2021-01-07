@@ -22,6 +22,9 @@ return (
               <img className="img1 skills-icon" title="Sequelize" src="../images/sequelize.png" alt="sequelize"/>
               <i className="fab fa-js fa-3x skills-icon" title="JavaScript" ></i>
               <i className="fab fa-python fa-3x skills-icon" title="Python"></i>
+              <i className="fab fa-npm fa-3x skills-icon" title="npm"></i>
+              <img className="img1 skills-icon-firebase" title="Firebase" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase"/>
+              <img className="img1 skills-icon-redux" title="Redux" src="https://img.stackshare.io/service/7374/react-redux.png" alt="redux"/>
             </div>
           </div>
         </div>

@@ -8,7 +8,7 @@ return(
   <div className="container-fluid">
     <div className="row">
       <div className="col-md-12">
-        <h3 className="title">Hello World!</h3>
+        <h1 className="title">Hello World!</h1>
       </div>
     </div>
   </div>
@@ -30,7 +30,6 @@ return(
     <div className="row">
       <div className="col-md-6 col-sm-12">
         <img className="img-fluid cloud1" src="../../images/cloud.png" alt="cloud_image"/>
-        <img className="img-fluid cloud3" src="../../images/cloud.png" alt="cloud_image"/>
         <img className="img-fluid sun" src="../../images/sun.png" alt="cloud_image"/>
       </div>
     </div>
@@ -45,7 +44,7 @@ return(
   <div className="container-fluid">
     <div className="row">
       <div className="col-md-4">
-        <img className="img-fluid cloud4" src="../../images/cloud.png" alt="cloud_image"/>
+        <img className="img-fluid cloud3" src="../../images/cloud.png" alt="cloud_image"/>
       </div>
     </div>
   </div>

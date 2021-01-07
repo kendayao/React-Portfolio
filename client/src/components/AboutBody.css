@@ -1,62 +1,91 @@
+.top-body{
+    overflow-x: hidden;
+}
+
 .buildings{
     height: 400px;
     margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .title{
-    font-family: 'Sacramento', cursive;
-    color: #4cbbb9 ;
-    font-size: 55px;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    color: #4cbbb9;
+    font-size: 40px;
     font-weight: bold;
+    position: relative;
+    animation: typewriter;
+    animation-duration: 12s;
+    animation-timing-function: steps(25, end);
+    animation-iteration-count: 1;
 }
+
+.title::after {
+    content: "|";
+    position: absolute;
+    right: -3px;
+    animation: caret infinite;
+    animation-duration: 1s;
+    animation-timing-function: steps(1, end);
+}
+
+@keyframes typewriter {
+    0% {
+      width: 0;
+    }
+    20%, 80%, 100% {
+      width: 5.8em;
+    }
+  }
+  @keyframes caret {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
 
 .subtitle{
     font-size: 20px;
 }
 
+
 .cloud1{
     position: relative;
-    animation: cloud1 50s infinite;
-
+    animation: cloud1 25s infinite;
 }
 
 @keyframes cloud1 {
     from {left: 0px;}
-    to {left: 400px;}
-  }
-
-  .cloud2{
-    position: relative;
-    animation: cloud2 10s infinite;
-
-}
-
-@keyframes cloud2 {
-    from {left: 0px;}
-    to {left: 50px;}
-  }
-
-  .cloud3{
-    position: relative;
-    animation: cloud3 25s infinite;
-
-}
-
-@keyframes cloud3 {
-    from {left: 0px;}
     to {left: 200px;}
   }
 
-  .cloud4{
+.cloud2{
     position: relative;
-    animation: cloud4 35s infinite;
-
+    right: 200px;
+    animation: cloud2 25s infinite;
 }
 
-@keyframes cloud4 {
-    from {left: 0px;}
+@keyframes cloud2 {
+    from {right: 200px;}
+    to {right: 50px;}
+  }
+
+.cloud3{
+position: relative;
+left: 200px;
+animation: cloud3 25s infinite;
+}
+
+@keyframes cloud3 {
+    from {left: 200px;}
     to {left: 300px;}
   }
+
 
 .sun{
     width:100px;
@@ -76,36 +105,10 @@ margin-bottom: 0px;
 }
 
 @media only screen and (max-width: 768px){
-    .cloud1{
-        animation: cloud1 10s infinite;
-    
-    }
-    
-    @keyframes cloud1 {
-        from {left: -5px;}
-        to {left: 150px;}
-      }
-
-    .cloud4{
-        display: none
-    }
-    
-    
-
-      .cloud3{
-        display: none
-    
-    }
-
     .cloud2{
-        animation: cloud2 1s infinite;
-    
+        display: none;
     }
-    
-    @keyframes cloud2 {
-        from {left: 0px;}
-        to {left: 0px;}
-      }
-
-   
+    .cloud3{
+        display: none;
+    }
 }
