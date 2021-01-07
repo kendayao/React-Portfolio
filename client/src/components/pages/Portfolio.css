@@ -13,25 +13,38 @@
     margin-bottom: 20px;
 }
 
-a h2 {
+h2 {
     background-color: #4cbbb9;
     color: white;
     position: absolute;
-    bottom: 48px;
+    bottom: 53px;
     width: 93%;
     text-align: center;
-    font-size: 28px;
+    font-size: 22px;
     
+}
+
+.card-text-visit{
+    background-color: #4cbbb9;
+    color: white;
+    position: absolute;
+    bottom: 34px;
+    width: 93%;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 0;
+    padding-bottom: 3px;
+    padding-top: 2px;
 }
 
 .card-text-details{
     background-color: #4cbbb9;
     color: white;
     position: absolute;
-    bottom: 20px;
+    bottom: 15px;
     width: 93%;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 0;
     padding-bottom: 3px;
     padding-top: 2px;
@@ -41,22 +54,17 @@ a h2 {
     background-color: #4cbbb9;
     color: white;
     position: absolute;
-    bottom: 0px;
+    bottom: -5px;
     width: 93%;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 4px;
     padding-bottom: 2px
 }
 
-h2:hover {
-    color: black;
-    transform: scale(1.1);
-}
 
 h6:hover {
     color: black;
-    transform: scale(1.1);
 }
 
 .portfolio-text-image {
@@ -80,12 +88,12 @@ h5 {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
+    width: 80%;
   }
 
   .image-container{
       width: 100%;
       height: 100%;
-      
   }
 
   .portfolio-text-image:hover .portfolio-image {
@@ -100,9 +108,8 @@ h5 {
 
   
   .text{
-      color: black;
-      font-size: 25px;
-      font-weight:100 ;
+      font-size: 20px;
+      font-weight:400 ;
   }
 
   @media only screen and (max-width: 500px){

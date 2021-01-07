@@ -8,133 +8,54 @@
         "appDemo": "https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen"
     },
     {
-        "img":"../../images/moviebase.png",
-        "appLink":"https://kendayao.github.io/MovieBase",
-        "appTitle":"MovieBase",
-        "appRepo":"https://github.com/kendayao/MovieBase",
-        "languages": "HTML CSS Bootstrap jQuery JavaScript OMDb API YouTube API",
-        "appDemo": "https://giphy.com/gifs/KH7wNCx8TUDtYqW267/fullscreen"
+        "img":"../../images/amazon-clone.png",
+        "appLink":"https://amazon-twin-app.herokuapp.com/",
+        "appTitle":"Amazon Clone",
+        "appRepo":"https://github.com/kendayao/Amazon-Clone",
+        "languages": "React.js Firebase Context-API Express Node.js JavaScript CSS HTML Stripe Axios Heroku React-Hooks React-Router",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     },
     {
-        "img":"../../images/chatterboxlive2.png",
-        "appLink":"https://chaterbox.herokuapp.com/",
-        "appTitle":"Chatterbox",
-        "appRepo":"https://github.com/kendayao/ChatterBox",
-        "languages": "REACT Redux Socket.io HTML CSS Bootstrap JavaScript",
-        "appDemo": "https://youtu.be/zJR8LgixNXY"
+        "img":"../../images/netflix-clone.png",
+        "appLink":"https://netflix-clone-9eed1.web.app",
+        "appTitle":"Netflix Clone",
+        "appRepo":"https://github.com/kendayao/Netflix-Clone",
+        "languages": "React.js Firebase React-Hooks Redux TMDB-API CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     },
     {
-        "img":"../../images/weather_dashboard.png",
-        "appLink":"https://kendayao.github.io/Weather-Dashboard/",
-        "appTitle":"Weather Dashboard",
-        "appRepo":"https://github.com/kendayao/Weather-Dashboard",
-        "languages": "HTML CSS Bootstrap JavaScript jQuery Open Weather API",
-        "appDemo": "https://giphy.com/gifs/Y1BNVnPrqsDYarU6pM/fullscreen"
+        "img":"../../images/instagram-clone.png",
+        "appLink":"https://instagram-clone-bf736.web.app/",
+        "appTitle":"Instagram Clone",
+        "appRepo":"https://github.com/kendayao/Instagram-Clone",
+        "languages": "React.js Firebase React-Hooks Redux Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     },
     {
-        "img":"../../images/food-delivery.png",
-        "appLink":"https://kendayao.github.io/Food-Delivery/",
-        "appTitle":"Omnifood",
-        "appRepo":"https://github.com/kendayao/Food-Delivery",
-        "languages": "HTML CSS jQuery",
-        "appDemo": "https://giphy.com/gifs/MctEbrtMAAIZtRFlzk/fullscreen"
+        "img":"../../images/covid-tracker-three.png",
+        "appLink":"https://covid-19-tracker-8ed19.web.app/",
+        "appTitle":"COVID-19 Tracker",
+        "appRepo":"https://github.com/kendayao/Covid-19-Tracker",
+        "languages": "React.js Firebase React-Hooks Leaflet.js Chart.js Material-UI CSS HTML JavaScript Disease.SH-API",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     },
     {
-        "img":"../../images/tic-tac-toe.png",
-        "appLink":"https://www.youtube.com/watch?v=gWVsONU9xxo",
-        "appTitle":"CLI Python Tic-Tac-Toe",
-        "appRepo":"https://github.com/kendayao/Tic-Tac-Toe",
-        "languages": "Python",
-        "appDemo": "https://www.youtube.com/watch?v=gWVsONU9xxo"
+        "img":"../../images/facebook-clone.png",
+        "appLink":"https://facebook-clone-d025c.web.app",
+        "appTitle":"Facebook Clone",
+        "appRepo":"https://github.com/kendayao/Facebook-Clone",
+        "languages": "React.js Firebase React-Hooks Context-API Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     },
     {
-        "img":"../../images/notetakerapp.png",
-        "appLink":"https://fierce-bayou-31752.herokuapp.com/",
-        "appTitle":"Note Taker",
-        "appRepo":"https://github.com/kendayao/Note-Taker",
-        "languages": "HTML CSS JavaScript Node Express",
-        "appDemo": "https://giphy.com/gifs/IgiZhvklWlFFVVcIO9/fullscreen"
-    },
-    {
-        "img":"../../images/code_quiz.png",
-        "appLink":"https://kendayao.github.io/Code-Quiz/",
-        "appTitle":"Code Quiz",
-        "appRepo":"https://github.com/kendayao/Code-Quiz",
-        "languages": "HTML CSS JavaScript",
-        "appDemo": "https://giphy.com/gifs/chEtXyFkGzGclH4Oqd/fullscreen"
-    },
-    {
-        "img":"../../images/day_planner.png",
-        "appLink":"https://kendayao.github.io/Day-Planner/",
-        "appTitle":"Day Planner App",
-        "appRepo":"https://github.com/kendayao/Day-Planner",
-        "languages": "HTML CSS Bootstrap JavaScript jQuery",
-        "appDemo": "https://giphy.com/gifs/fxAjEBQzRbKxeH55le/fullscreen"
-    },
-    {
-        "img":"../../images/memo.png",
-        "appLink":"https://kendayao.github.io/Memo/",
-        "appTitle":"Memo",
-        "appRepo":"https://github.com/kendayao/Memo",
-        "languages": "REACT REACT Hooks Local Storage, HTML, CSS, JavaScript, Material-UI",
-        "appDemo": "https://giphy.com/gifs/6ivebP3GfO7kq1M6j1/fullscreen"
-    },
-    {
-        "img":"../../images/burgerapp.png",
-        "appLink":"https://frozen-beyond-53655.herokuapp.com/",
-        "appTitle":"Burger App",
-        "appRepo":"https://github.com/kendayao/Burger",
-        "languages": "HTML CSS JavaScript jQuery MySQL Node Express Handlebars ORM",
-        "appDemo": "https://giphy.com/gifs/QVgTZHvQ31yR6Epn6g/fullscreen"
-    },
-    {
-        "img":"../../images/fidofriend.png",
-        "appLink":"https://young-refuge-69490.herokuapp.com/",
-        "appTitle":"Fido Friend",
-        "appRepo":"https://github.com/kendayao/Fido-Friend",
-        "languages": "HTML CSS JavaScript jQuery React Node Express Bootstrap Mongoose Google/Yelp API Redux",
-        "appDemo": "https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen"
-    },
-    {
-        "img":"../../images/budgetapp.png",
-        "appLink":"https://benefique-monsieur-43566.herokuapp.com/",
-        "appTitle":"Budget Tracker",
-        "appRepo":"https://github.com/kendayao/Budget-Tracker",
-        "languages": "HTML CSS JavaScript jQuery MongoDB Mongoose Node Express PWA IndexedDB",
-        "appDemo": "https://giphy.com/gifs/W0Wj19NGBzeum17nX0/fullscreen"
-    },
-    {
-        "img":"../../images/employeedirectoryapp.png",
-        "appLink":"https://kendayao.github.io/Employee-Directory/",
-        "appTitle":"Employee Directory",
-        "appRepo":"https://github.com/kendayao/Employee-Directory",
-        "languages": "HTML CSS JavaScript React API",
-        "appDemo": "https://giphy.com/gifs/JQeJfs1fRChoOrNBL8/fullscreen"
-    },
-    {
-        "img":"../../images/tindog.png",
-        "appLink":"https://kendayao.github.io/Tindog/",
-        "appTitle":"TinDog Website",
-        "appRepo":"https://github.com/kendayao/Tindog",
-        "languages": "HTML CSS Bootstrap",
-        "appDemo": "https://giphy.com/gifs/jR4z6OjgnmXslEzgqg/fullscreen"
-    },
-    {
-        "img":"./../images/get_prepared_app.png",
-        "appLink":"https://kendayao.github.io/Get_Prepared/",
-        "appTitle":"Get Prepared App",
-        "appRepo":"https://github.com/kendayao/Get_Prepared",
-        "languages": "HTML CSS Bootstrap JavaScript jQuery API",
-        "appDemo": "https://giphy.com/gifs/jQn8VHnBVqNAeVcQhZ/fullscreen"
-    },
-    {
-        "img":"../../images/drumkit.png",
-        "appLink":"https://kendayao.github.io/Drumkit/",
-        "appTitle":"Drum Kit",
-        "appRepo":"https://github.com/kendayao/Drumkit",
-        "languages": "HTML CSS JavaScript",
+        "img":"../../images/swifts-two.png",
+        "appLink":"https://swifts.herokuapp.com/",
+        "appTitle":"Ecommerce Store (Swifts)",
+        "appRepo":"https://github.com/kendayao/Swifts",
+        "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
         "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
     }
+
     
     
         
