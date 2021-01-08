@@ -3,6 +3,7 @@ import "./Contact.css"
 import API from "../../utils/API"
 import Connect from "../Connect"
 import Alert from "../Alert"
+
 function Contact(){
 
 const [formObject, setFormObject]=useState({})
@@ -50,7 +51,7 @@ function handleFormSubmit(event){
                           <input name="email" type="email" className="form-control" id="email" placeholder="Email Address" required onChange={handleInputChange}/>
                           <label>Message</label>
                           <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="8" placeholder="Type message here...." onChange={handleInputChange}></textarea>
-                          <button type="button" className="btn btn-info" onClick={handleFormSubmit}>Submit</button>
+                          <button type="button" className='btn btn-info'  disabled={!formObject.message || !formObject.email || !formObject.name } onClick={handleFormSubmit}>Submit</button>
                           {alertState ? <Alert />: null}
                         </div>
                       </form>
@@ -64,7 +65,6 @@ function handleFormSubmit(event){
         </div>
       </section>
     )
-
 
 }
 

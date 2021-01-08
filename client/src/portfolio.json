@@ -1,13 +1,5 @@
 [
     {
-        "img":"../../images/assemble.png",
-        "appLink":"https://polar-island-19787.herokuapp.com/",
-        "appTitle":"Assemble App",
-        "appRepo":"https://github.com/kendayao/Assemble",
-        "languages": "HTML CSS Node Express JavaScript jQuery Sequelize MySQL Bootstrap Passport",
-        "appDemo": "https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen"
-    },
-    {
         "img":"../../images/amazon-clone.png",
         "appLink":"https://amazon-twin-app.herokuapp.com/",
         "appTitle":"Amazon Clone",
@@ -32,6 +24,14 @@
         "appDemo": "https://giphy.com/gifs/elyXzLN5eKt38UE67X/fullscreen"
     },
     {
+        "img":"../../images/swifts-two.png",
+        "appLink":"https://swifts.herokuapp.com/",
+        "appTitle":"Ecommerce Store (Swifts)",
+        "appRepo":"https://github.com/kendayao/Swifts",
+        "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/UyAWnFOWfUCn3w10Jt/fullscreen"
+    },
+    {
         "img":"../../images/covid-tracker-three.png",
         "appLink":"https://covid-19-tracker-8ed19.web.app/",
         "appTitle":"COVID-19 Tracker",
@@ -48,16 +48,83 @@
         "appDemo": "https://giphy.com/gifs/Xt2MXToUE3b8uSOr4q/fullscreen"
     },
     {
-        "img":"../../images/swifts-two.png",
-        "appLink":"https://swifts.herokuapp.com/",
-        "appTitle":"Ecommerce Store (Swifts)",
-        "appRepo":"https://github.com/kendayao/Swifts",
-        "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/UyAWnFOWfUCn3w10Jt/fullscreen"
+        "img":"../../images/assemble.png",
+        "appLink":"https://polar-island-19787.herokuapp.com/",
+        "appTitle":"Assemble App",
+        "appRepo":"https://github.com/kendayao/Assemble",
+        "languages": "HTML CSS Node Express JavaScript jQuery Sequelize MySQL Bootstrap Passport",
+        "appDemo": "https://giphy.com/gifs/ZBzZG6LmLuRbvnDqQV/fullscreen"
+    },
+    {
+        "img":"../../images/fidofriend.png",
+        "appLink":"https://young-refuge-69490.herokuapp.com/",
+        "appTitle":"Fido Friend",
+        "appRepo":"https://github.com/kendayao/Fido-Friend",
+        "languages": "HTML CSS JavaScript React Node Express Bootstrap Mongoose Google/Yelp-API Redux Socket.io",
+        "appDemo": "https://giphy.com/gifs/h20bw5D8JgLoOLcIQs/fullscreen"
+    },
+    {
+        "img":"../../images/weather_dashboard.png",
+        "appLink":"https://kendayao.github.io/Weather-Dashboard/",
+        "appTitle":"Weather Dashboard",
+        "appRepo":"https://github.com/kendayao/Weather-Dashboard",
+        "languages": "HTML CSS JavaScript jQuery Open-Weather-API",
+        "appDemo": "https://giphy.com/gifs/Y1BNVnPrqsDYarU6pM/fullscreen"
+    },
+    {
+        "img":"../../images/food-delivery.png",
+        "appLink":"https://kendayao.github.io/Food-Delivery/",
+        "appTitle":"Omnifood",
+        "appRepo":"https://github.com/kendayao/Food-Delivery",
+        "languages": "HTML CSS jQuery",
+        "appDemo": "https://giphy.com/gifs/MctEbrtMAAIZtRFlzk/fullscreen"
+    },
+    {
+        "img":"../../images/burgerapp.png",
+        "appLink":"https://frozen-beyond-53655.herokuapp.com/",
+        "appTitle":"Burger App",
+        "appRepo":"https://github.com/kendayao/Burger",
+        "languages": "HTML CSS JavaScript jQuery MySQL Node Express Handlebars ORM",
+        "appDemo": "https://giphy.com/gifs/QVgTZHvQ31yR6Epn6g/fullscreen"
+    },
+    {
+        "img":"../../images/code_quiz.png",
+        "appLink":"https://kendayao.github.io/Code-Quiz/",
+        "appTitle":"Code Quiz",
+        "appRepo":"https://github.com/kendayao/Code-Quiz",
+        "languages": "HTML CSS JavaScript",
+        "appDemo": "https://giphy.com/gifs/chEtXyFkGzGclH4Oqd/fullscreen"
+    },
+    {
+        "img":"../../images/employeedirectoryapp.png",
+        "appLink":"https://kendayao.github.io/Employee-Directory/",
+        "appTitle":"Employee Directory",
+        "appRepo":"https://github.com/kendayao/Employee-Directory",
+        "languages": "HTML CSS JavaScript React API",
+        "appDemo": "https://giphy.com/gifs/JQeJfs1fRChoOrNBL8/fullscreen"
+    },
+    {
+        "img":"../../images/drumkit.png",
+        "appLink":"https://kendayao.github.io/Drumkit/",
+        "appTitle":"Drum Kit",
+        "appRepo":"https://github.com/kendayao/Drumkit",
+        "languages": "HTML CSS JavaScript",
+        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+    },
+    {
+        "img":"../../images/chatterboxlive2.png",
+        "appLink":"https://chaterbox.herokuapp.com/",
+        "appTitle":"Chatterbox",
+        "appRepo":"https://github.com/kendayao/ChatterBox",
+        "languages": "React.js Redux Socket.io HTML Bootstrap JavaScript CSS",
+        "appDemo": "https://youtu.be/zJR8LgixNXY"
+    },
+    {
+        "img":"../../images/tic-tac-toe.png",
+        "appLink":"https://www.youtube.com/watch?v=gWVsONU9xxo",
+        "appTitle":"CLI Python Tic-Tac-Toe",
+        "appRepo":"https://github.com/kendayao/Tic-Tac-Toe",
+        "languages": "Python",
+        "appDemo": "https://www.youtube.com/watch?v=gWVsONU9xxo"
     }
-
-    
-    
-        
-
 ]

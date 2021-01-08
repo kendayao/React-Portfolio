@@ -2,8 +2,8 @@ import React from "react"
 import "./About.css"
 import AboutBody from "../AboutBody"
 import Skills from "../Skills"
-function About(){
 
+function About(){
   return(
     <div>
     <AboutBody />

@@ -1,12 +1,9 @@
 import React from "react";
 import "./Connect.css"
 import PDF from "../resume3.pdf"
-import { Link, useLocation } from "react-router-dom"
 
 function Connect(){
-  const location = useLocation();
     return(
-
         <div className="col-md-4">
           <div className="card connect-with-me-card">
             <div className="card-body">
