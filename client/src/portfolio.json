@@ -24,20 +24,20 @@
         "appDemo": "https://giphy.com/gifs/elyXzLN5eKt38UE67X/fullscreen"
     },
     {
-        "img":"../../images/swifts-two.png",
-        "appLink":"https://swifts.herokuapp.com/",
-        "appTitle":"Ecommerce Store (Swifts)",
-        "appRepo":"https://github.com/kendayao/Swifts",
-        "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/UyAWnFOWfUCn3w10Jt/fullscreen"
-    },
-    {
         "img":"../../images/covid-tracker-three.png",
         "appLink":"https://covid-19-tracker-8ed19.web.app/",
         "appTitle":"COVID-19 Tracker",
         "appRepo":"https://github.com/kendayao/Covid-19-Tracker",
         "languages": "React.js Firebase React-Hooks Leaflet.js Chart.js Material-UI CSS HTML JavaScript Disease.SH-API",
         "appDemo": "https://giphy.com/gifs/gw0ktAwKk3PdDO7UXZ/fullscreen"
+    },
+    {
+        "img":"../../images/swifts-two.png",
+        "appLink":"https://swifts.herokuapp.com/",
+        "appTitle":"Ecommerce Store",
+        "appRepo":"https://github.com/kendayao/Swifts",
+        "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/UyAWnFOWfUCn3w10Jt/fullscreen"
     },
     {
         "img":"../../images/facebook-clone.png",

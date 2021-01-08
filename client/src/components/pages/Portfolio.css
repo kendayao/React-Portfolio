@@ -120,7 +120,19 @@ h5 {
 
   @media only screen and (max-width: 420px){
     .text{
-        font-size: 18px;
+        font-size: 12px;
+    }
+
+    h2{
+        bottom: 50px;
+    }
+
+    .card-text-visit{
+        bottom: 32px;
+    }
+    
+    .card-text-details{
+        bottom: 14px;
     }
 
     h2,
@@ -145,8 +157,22 @@ h5 {
     .card-text-visit,
     .card-text-details,
     .card-text-demo {
-        width: 90%
+        width: 93%
     }
+
+    h2{
+        bottom: 50px;
+    }
+
+    .card-text-visit{
+        bottom: 32px;
+    }
+    
+    .card-text-details{
+        bottom: 14px;
+    }
+
+
 }
 
 @media only screen and (min-width: 1655px) and (max-width:1920px){
