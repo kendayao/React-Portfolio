@@ -19,10 +19,10 @@ if (process.env.NODE_ENV === "production") {
 require("./routes/apiRoutes.js")(app)
 
 // Connect to the Mongo DB
-mongoose.connect("mongodb://localhost/portfoliomessages", { useNewUrlParser: true, useUnifiedTopology: true})
+mongoose.connect("mongodb+srv://kendayao:"+process.env.DB_PASS+"@portfolio.1bkdg.mongodb.net/portfolio?retryWrites=true&w=majority", { useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true })
 
-// "mongodb://localhost/portfoliomessages"
-// mongodb+srv://project_user1:"+process.env.DB_PASS+"@portfolio.koran.mongodb.net/portfolio?retryWrites=true&w=majority
+// mongodb://localhost/portfoliomessages
+// mongodb+srv://kendayao:"+process.env.DB_PASS+"@portfolio.1bkdg.mongodb.net/portfolio?retryWrites=true&w=majority
 
 // Start the API server
 app.listen(PORT, function() {
