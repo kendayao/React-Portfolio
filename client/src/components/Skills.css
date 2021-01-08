@@ -35,6 +35,14 @@
 
 }
 
+.fa-php{
+    color: #7477AE;
+}
+
+.fa-wordpress{
+    color: #21759B
+}
+
 .card-body{
     box-shadow: 5px 10px #888888;
 }

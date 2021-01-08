@@ -25,6 +25,8 @@ return (
               <i className="fab fa-npm fa-3x skills-icon" title="npm"></i>
               <img className="img1 skills-icon-firebase" title="Firebase" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="firebase"/>
               <img className="img1 skills-icon-redux" title="Redux" src="https://img.stackshare.io/service/7374/react-redux.png" alt="redux"/>
+              <i class="fab fa-php fa-3x skills-icon" title="Php"></i>
+              <i class="fab fa-wordpress fa-3x skills-icon" title="Wordpress"></i>
             </div>
           </div>
         </div>

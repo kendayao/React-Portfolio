@@ -13,7 +13,7 @@
         "appTitle":"Amazon Clone",
         "appRepo":"https://github.com/kendayao/Amazon-Clone",
         "languages": "React.js Firebase Context-API Express Node.js JavaScript CSS HTML Stripe Axios Heroku React-Hooks React-Router",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/P3BFoPqZuCfF4MFulM/fullscreen"
     },
     {
         "img":"../../images/netflix-clone.png",
@@ -21,7 +21,7 @@
         "appTitle":"Netflix Clone",
         "appRepo":"https://github.com/kendayao/Netflix-Clone",
         "languages": "React.js Firebase React-Hooks Redux TMDB-API CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/fJ0ENZyqDpF4x8bin6/fullscreen"
     },
     {
         "img":"../../images/instagram-clone.png",
@@ -29,7 +29,7 @@
         "appTitle":"Instagram Clone",
         "appRepo":"https://github.com/kendayao/Instagram-Clone",
         "languages": "React.js Firebase React-Hooks Redux Material-UI CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/elyXzLN5eKt38UE67X/fullscreen"
     },
     {
         "img":"../../images/covid-tracker-three.png",
@@ -37,7 +37,7 @@
         "appTitle":"COVID-19 Tracker",
         "appRepo":"https://github.com/kendayao/Covid-19-Tracker",
         "languages": "React.js Firebase React-Hooks Leaflet.js Chart.js Material-UI CSS HTML JavaScript Disease.SH-API",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/gw0ktAwKk3PdDO7UXZ/fullscreen"
     },
     {
         "img":"../../images/facebook-clone.png",
@@ -45,7 +45,7 @@
         "appTitle":"Facebook Clone",
         "appRepo":"https://github.com/kendayao/Facebook-Clone",
         "languages": "React.js Firebase React-Hooks Context-API Material-UI CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/Xt2MXToUE3b8uSOr4q/fullscreen"
     },
     {
         "img":"../../images/swifts-two.png",
@@ -53,7 +53,7 @@
         "appTitle":"Ecommerce Store (Swifts)",
         "appRepo":"https://github.com/kendayao/Swifts",
         "languages": "React.js Redux React-Selectors React-Hooks Firebase MongoDB Express Node Material-UI CSS HTML JavaScript",
-        "appDemo": "https://giphy.com/gifs/MCFnTJNaK5zvH107Ij/fullscreen"
+        "appDemo": "https://giphy.com/gifs/UyAWnFOWfUCn3w10Jt/fullscreen"
     }
 
     
