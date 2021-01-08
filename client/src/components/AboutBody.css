@@ -1,5 +1,6 @@
 .top-body{
     overflow-x: hidden;
+    position: relative;
 }
 
 .buildings{
@@ -68,6 +69,7 @@
 .cloud2{
     position: relative;
     right: 200px;
+    z-index: 1;
     animation: cloud2 35s infinite;
 }
 
@@ -102,6 +104,26 @@ animation: cloud3 20s infinite;
     transform: rotate(360deg);
   }
 }
+
+
+.plane{
+  position: relative;
+  width: 60px;
+  animation: plane-move 30s infinite;
+  animation-delay: 4s;
+  opacity: 0;
+}
+
+@keyframes plane-move {
+  from {
+    left: -1200px;
+    opacity: 1;
+  }
+  to {left: 400px;
+    opacity: 1;
+  }
+}
+
 
 .building-attribution{
 font-size: 8px;

@@ -38,6 +38,7 @@ return(
     <div className="row">
       <div className="col-md-6 ml-auto">
         <img className="img-fluid cloud2" src="../../images/cloud.png" alt="cloud_image"/>
+        <img className="img-fluid plane" src="../../images/plane.png" alt="cloud_image"/>
       </div>
     </div>
   </div>
