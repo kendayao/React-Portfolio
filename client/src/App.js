@@ -18,10 +18,6 @@ function App() {
         <About />
       </Route>
 
-      <Route exact path="/about">
-        <About />
-      </Route>
-
       <Route exact path="/projects">
           <Portfolio
             portfolio={portfolio}
