@@ -48,6 +48,14 @@
         "appDemo": "https://giphy.com/gifs/Xt2MXToUE3b8uSOr4q/fullscreen"
     },
     {
+        "img":"../../images/google-clone.png",
+        "appLink":"https://clone-7b90d.web.app/",
+        "appTitle":"Google Clone",
+        "appRepo":"https://github.com/kendayao/Google-Clone",
+        "languages": "React.js Firebase React-Hooks React-Custom-Hooks Google-API Context-API Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/XRmyOfj9y0PfzKLaHi/fullscreen"
+    },
+    {
         "img":"../../images/assemble.png",
         "appLink":"https://polar-island-19787.herokuapp.com/",
         "appTitle":"Assemble App",
