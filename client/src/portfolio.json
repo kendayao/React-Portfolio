@@ -48,6 +48,14 @@
         "appDemo": "https://giphy.com/gifs/Xt2MXToUE3b8uSOr4q/fullscreen"
     },
     {
+        "img":"../../images/snapchat-clone.png",
+        "appLink":"https://snapchat-clone-5d40f.web.app",
+        "appTitle":"Snapchat Clone",
+        "appRepo":"https://github.com/kendayao/Snapchat-Clone",
+        "languages": "React.js Firebase React-Hooks Redux Material-UI CSS HTML JavaScript",
+        "appDemo": "https://giphy.com/gifs/fZqoHZyjaRqcwqVYIB/fullscreen"
+    },
+    {
         "img":"../../images/google-clone.png",
         "appLink":"https://clone-7b90d.web.app/",
         "appTitle":"Google Clone",
