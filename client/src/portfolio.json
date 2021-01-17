@@ -73,7 +73,7 @@
     },
     {
         "img":"../../images/fidofriend.png",
-        "appLink":"https://young-refuge-69490.herokuapp.com/",
+        "appLink":"https://fidofriendproject.herokuapp.com/",
         "appTitle":"Fido Friend",
         "appRepo":"https://github.com/kendayao/Fido-Friend",
         "languages": "HTML CSS JavaScript React Node Express Bootstrap Mongoose Google/Yelp-API Redux Socket.io",
