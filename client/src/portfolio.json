@@ -155,7 +155,7 @@
         "img":"../../images/employee-tracker.png",
         "appLink":"https://www.youtube.com/watch?v=u9cqWbXgdTg&feature=youtu.be",
         "appTitle":"CLI Employee Tracker (MySQL)",
-        "appRepo":"https://github.com/kendayao/Tic-Tac-Toe",
+        "appRepo":"https://github.com/kendayao/Employee-Tracker",
         "languages": "JavaScript, MySQL",
         "appDemo": "https://www.youtube.com/watch?v=u9cqWbXgdTg&feature=youtu.be"
     }
