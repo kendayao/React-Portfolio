@@ -12,7 +12,7 @@
         "appLink":"https://netflix-clone-9eed1.web.app",
         "appTitle":"Netflix Clone",
         "appRepo":"https://github.com/kendayao/Netflix-Clone",
-        "languages": "React.js Firebase React-Hooks Redux TMDB-API CSS HTML JavaScript",
+        "languages": "React.js Firebase Styled-Components React-Hooks Redux TMDB-API CSS HTML JavaScript",
         "appDemo": "https://giphy.com/gifs/fJ0ENZyqDpF4x8bin6/fullscreen"
     },
     {
