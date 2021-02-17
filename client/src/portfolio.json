@@ -72,6 +72,14 @@
         "appDemo": "https://giphy.com/gifs/EM4RZrY809IRyueDaa/fullscreen"
     },
     {
+        "img":"../../images/signal-clone-main.png",
+        "appLink":"https://signal-clone-53de0.web.app",
+        "appTitle":"Signal Clone (React Native)",
+        "appRepo":"https://github.com/kendayao/Signal-Clone",
+        "languages": "React Native, React Hooks, Firebase, Expo.io",
+        "appDemo": "https://giphy.com/gifs/NHq2RvoTLIgQrfVGQc/fullscreen"
+    },
+    {
         "img":"../../images/assemble.png",
         "appLink":"https://polar-island-19787.herokuapp.com/",
         "appTitle":"Assemble App",
